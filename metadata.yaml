@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32859
     wikipedia: http://en.wikipedia.org/wiki/F._A._Forbes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35953#Pope-Pius-the-Tenth
 gutenberg_issued: '2011-04-25'
 gutenberg_type: Text
 identifiers:
