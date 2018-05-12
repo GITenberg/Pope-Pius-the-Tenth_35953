@@ -1,0 +1,28 @@
+_repo: Pope-Pius-the-Tenth_35953
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forbes, F. A. (Frances Alice)
+    alias: Forbes, Frances Alice Monica
+    birthdate: 1869
+    deathdate: 1936
+    gutenberg_agent_id: '32859'
+    url: http://www.gutenberg.org/2009/agents/32859
+    wikipedia: http://en.wikipedia.org/wiki/F._A._Forbes
+description: ''
+gutenberg_issued: '2011-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pius X, Pope, 1835-1914'
+- !lcc 'BX'
+title: Pope Pius the Tenth
+url: http://www.gutenberg.org/ebooks/35953
